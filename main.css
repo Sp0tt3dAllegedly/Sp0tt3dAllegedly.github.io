@@ -17,11 +17,15 @@ body {
 }
 	
 
-#
+#block-intro {
+	padding: 30px;
+	line-height: 1.5;
+}
 
 
 #block-content {
 	padding: 30px;
+	line-height: 1.5;
 }
 
 #block-date {
