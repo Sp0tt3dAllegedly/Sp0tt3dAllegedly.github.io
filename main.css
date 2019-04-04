@@ -9,9 +9,9 @@ body {
 
 #content-contact {
 	
-  background: purple;
+  background: rebecca purple;
   width: 300px;
-  border: 40px solid lightgrey;
+  border: 5px solid lightgrey;
   padding: 20px;
   margin: 20px;
 }
@@ -19,13 +19,11 @@ body {
 
 #block-intro {
 	padding: 30px;
-	line-height: 15px;
 }
 
 
-#block-content {
+#jobs {
 	padding: 30px;
-	line-height: 15px;
 }
 
 #block-date {
@@ -34,6 +32,6 @@ body {
 
 #Employer {
 	text-size: 150%;
-	
+	background: rgba( 226, 171, 216, .8);
 }
 	
