@@ -1,6 +1,12 @@
 
 
-
+body {
+  background-image: url("https://cdn.pixabay.com/photo/2012/12/06/06/29/paper-68833_1280.jpg");
+  background-repeat: no-repeat;
+  background-position: right top;
+  margin-right: 200px;
+  background-attachment: fixed;
+}
 
 
 
