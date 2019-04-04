@@ -1,11 +1,13 @@
 
 
 body {
-  background-image: url("https://cdn.pixabay.com/photo/2012/12/06/06/29/paper-68833_1280.jpg");
+  background-image: url("https://d2.destinygamewiki.com/mediawiki/images/5/56/Nightstalker_crest.png");
   background-repeat: no-repeat;
   background-position: right top;
   margin-right: 200px;
   background-attachment: fixed;
+  background-color: Lime;
+  
 }
 
 
