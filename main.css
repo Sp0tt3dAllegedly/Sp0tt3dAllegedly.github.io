@@ -1,10 +1,10 @@
 
 
-html {
-  background-color: gradient (rebecca purple, navy 50px);
-	  }
+body {
+  background: url(http://www.zingerbug.com/Backgrounds/background_images/white_parchment_paper_wallpaper_texture_seamless.jpg) no-repeat center center fixed;
+	background-size: cover;
+}
 
-h6 {textsize:
 
 
 #content-contact {
@@ -34,4 +34,5 @@ h6 {textsize:
 
 
 #Employer {
+	text-size: 150%;}
 	
