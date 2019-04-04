@@ -8,31 +8,28 @@ body {
 
 
 #content-contact {
-  background-image: url(https://banner2.kisspng.com/20180824/zyu/kisspng-bald-eagle-image-drawing-red-5b80a2d7db8719.1232523315351569518992.jpg);
+	
+  background-color: rebecca purple;
   width: 300px;
-  border: 15px solid lightgrey;
+  border: 40px solid lightgrey;
   padding: 20px;
   margin: 20px;
 }
 	
 
-.Employer:hover {color: black;
-		 background-color: lime;
-	}
+#
 
-#content-experience {
-  background-color: lightgrey;
-  width: 300px;
-  border: 15px solid yellow;
-  padding: 20px;
-  margin: 20px;
+
+#block-content {
+	padding: 30px;
 }
-
 
 #block-date {
 	text-size: 85%;}
 
 
 #Employer {
-	text-size: 150%;}
+	text-size: 150%;
+	
+}
 	
