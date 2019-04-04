@@ -9,7 +9,7 @@ body {
 
 #content-contact {
 	
-  background-color: purple;
+  background: purple;
   width: 300px;
   border: 40px solid lightgrey;
   padding: 20px;
@@ -19,13 +19,13 @@ body {
 
 #block-intro {
 	padding: 30px;
-	line-height: 1.5;
+	line-height: 15px;
 }
 
 
 #block-content {
 	padding: 30px;
-	line-height: 1.5;
+	line-height: 15px;
 }
 
 #block-date {
