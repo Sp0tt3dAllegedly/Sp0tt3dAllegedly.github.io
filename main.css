@@ -1,24 +1,10 @@
 
 
 body {
-  background-color: repeating-radial-gradient(light-gray, navy 50px);
+  background-color: gradient (light-gray, navy 50px);
 	  }
 
 
-.container
- {
-	margin-top: 15px;
-	margin-left: 150px;
-	margin-right: 150px;
-  margin-bottom: 15px;
-
-	padding: 10px 50px 10px 50px;
-
-	border-radius: 5px;
-	background-color: #F5DEB3;
-
-  text-align: left;
-}
 
 
 #content-contact {
