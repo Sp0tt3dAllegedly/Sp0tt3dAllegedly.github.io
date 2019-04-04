@@ -1,10 +1,10 @@
 
 
-body {
-  background-color: gradient (light-gray, navy 50px);
+html {
+  background-color: gradient (rebecca purple, navy 50px);
 	  }
 
-
+h6 {textsize:
 
 
 #content-contact {
@@ -14,9 +14,13 @@ body {
   padding: 20px;
   margin: 20px;
 }
+	
 
+.Employer:hover {color: black;
+		 background-color: lime;
+	}
 
-#content-employment {
+#content-experience {
   background-color: lightgrey;
   width: 300px;
   border: 15px solid yellow;
@@ -25,8 +29,9 @@ body {
 }
 
 
-#
+#block-date {
+	text-size: 85%;}
 
 
-#block-content {
+#Employer {
 	
