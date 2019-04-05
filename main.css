@@ -5,37 +5,43 @@ body {
 	background-size: cover;
 }
 
-
-p {
-	line-height: 150%
+h2 { text-decoration: underline;
 }
 
 
-#content-contact {
+.employer a:hover {
+	background-color: rgba(240, 249, 71, .5)
+}
+
+.content-contact {
 	
-  background: rebecca purple;
+  background: purple;
   width: 300px;
-  border: 5px rgba(;
+  border: 5px solid rgba(240, 249, 71, .5);
   padding: 20px;
   margin: 20px;
 }
 	
 
-#block-intro {
+.block-intro {
 	padding: 15px;
 }
 
 
-#jobs {
+.jobs {
 	padding: 30px;
-	line-height
+	line-height: 155%;
+	
 }
 
-#block-date {
-	text-size: 85%;}
+
+.block-date {
+	text-size: 85%;
+}
 
 
-#Employer {
+.Employer {
 	text-size: 150%;
 }
 	
+
