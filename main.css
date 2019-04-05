@@ -29,6 +29,7 @@ text-align: center;
 
 .block-intro, .content-introduction {
 	text-align: center;
+	text-justify: auto;
 }
 	
 .block-intro{
