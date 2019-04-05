@@ -22,17 +22,21 @@ text-align: center;
   background: aqua;
   width: 900px;
   border: 15px solid slategray;
-  padding: 20px;
+  padding-top: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 40px;
   margin: 20px;
 }
 	
 
-.block-intro, .content-introduction {
+.content-introduction {
 	text-align: center;
-	text-justify: auto;
 }
-	
+
+
 .block-intro{
+	text-justify: auto;
 	padding: 10px;
 	line-height: 150%;
 }
