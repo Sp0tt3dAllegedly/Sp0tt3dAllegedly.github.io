@@ -6,24 +6,29 @@ body {
 }
 
 
+p {
+	line-height: 150%
+}
+
 
 #content-contact {
 	
   background: rebecca purple;
   width: 300px;
-  border: 5px solid lightgrey;
+  border: 5px rgba(;
   padding: 20px;
   margin: 20px;
 }
 	
 
 #block-intro {
-	padding: 30px;
+	padding: 15px;
 }
 
 
 #jobs {
 	padding: 30px;
+	line-height
 }
 
 #block-date {
@@ -32,6 +37,5 @@ body {
 
 #Employer {
 	text-size: 150%;
-	background: rgba( 226, 171, 216, .8);
 }
 	
