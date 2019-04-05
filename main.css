@@ -28,10 +28,18 @@ a:hover {
 }
 
 
+.experience {
+	background: rgba(102, 51, 153, .5)
+  	width: 700px;
+  	border: 5px solid slategray;
+  	padding: 20px;
+  	margin: 20px;
+}
+
+
 .jobs {
 	padding: 30px;
-	line-height: 155%;
-	
+	line-height: 155%;	
 }
 
 
@@ -52,5 +60,17 @@ a:hover {
 
 .summary {
 	padding: 5px;
-	text-indent: 10px;
+	text-align: center;
+}
+
+
+.references {
+	background: bisque;
+  	width: 700px;
+  	border: 5px solid slategray;
+  	padding: 20px;
+  	margin: 20px;
+
+.references:ol {
+	hover: background-color: rgba(240, 249, 71, .5)
 }
